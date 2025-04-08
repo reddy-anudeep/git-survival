@@ -45,11 +45,11 @@ stash@{0}: WIP on master: 8912303 Add todo, whatever
 Assignment 4: "The Client Wants It Online" Rush
 
 Commands:
-git remote add origin https://github.com/username/git-survival.git
+git remote add origin https://github.com/reddy-anudeep/git-survival.git
 git push -u origin main
 
 Deliverable:
-GitHub URL: https://github.com/username/git-survival
+GitHub URL: https://github.com/reddy-anudeep/git-survival
 
 
 
